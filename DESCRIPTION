@@ -10,7 +10,6 @@ License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
-Remotes: git::git@gitee.com:xiayh17/RNAseqStat.git
 URL: https://github.com/xiayh17/degPoint
 BugReports: https://github.com/xiayh17/degPoint/issues
-Remotes: git::git@gitee.com:xiayh17/RNAseqStat.git
+Remotes: git::https://gitee.com/xiayh17/RNAseqStat.git@master
